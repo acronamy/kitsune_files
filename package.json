@@ -1,0 +1,45 @@
+{
+  "_args": [
+    [
+      "kitsune_files/",
+      "/home/adam/node-www/kitsune-cms-1.1"
+    ]
+  ],
+  "_from": "node_modules/kitsune_files",
+  "_id": "kitsune_files@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/kitsune_files",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": null,
+    "raw": "kitsune_files/",
+    "rawSpec": "kitsune_files/",
+    "scope": null,
+    "spec": "/home/adam/node-www/kitsune-cms-1.1/node_modules/kitsune_files",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:node_modules/kitsune_files",
+  "_shasum": "11cc8014d193d037bf450410dcee933c33d0021b",
+  "_shrinkwrap": null,
+  "_spec": "kitsune_files/",
+  "_where": "/home/adam/node-www/kitsune-cms-1.1",
+  "author": {
+    "name": "Adam Crockett"
+  },
+  "dependencies": {},
+  "description": "Enables configurable file storage for kitsune.",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "kitsune_files",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
